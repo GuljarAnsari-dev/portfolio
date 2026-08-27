@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Premium Java Developer Portfolio
 
 A premium, responsive developer portfolio built with **Spring Boot + HTML + CSS + JavaScript**.
@@ -38,3 +39,6 @@ Edit `src/main/resources/templates/index.html` and replace:
 - Certification details
 
 The `/api/contact` endpoint is currently a demo response. For production, connect it to an email service or MySQL database.
+=======
+# portfolio
+>>>>>>> bcdf8ff5509cd529067d527d56e09b6ba86f1653
